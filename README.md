@@ -100,10 +100,3 @@ This will automatically:
 4.  Open the dashboard in your default browser.
 
 ---
-
-## 🤝 Acknowledgements
-- **Professor Oussama Khatib** for the foundational research in Potential Fields.
-- **Vite/FastAPI Community** for the incredible performance-first web tools.
-- **NumPy Core Team** for the high-speed linear algebra bindings.
-
----
