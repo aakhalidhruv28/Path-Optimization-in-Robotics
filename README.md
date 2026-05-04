@@ -58,7 +58,7 @@ The following sequence demonstrates how the system adapts to user interaction in
 > **Interactive Experience:** While the screenshots above provide a static snapshot, the project is designed for high-frequency interaction. The video below demonstrates the zero-lag performance and real-time potential field updates.
 
 <div align="center">
-  <video src="./Screenshots/Screen%20Recording%202026-05-01%20at%206.13.18%E2%80%AFPM.mov" width="100%" controls>
+  <video src="https://github.com/user-attachments/assets/930639f3-0a91-48f7-88d2-07dd24ec8010" width="100%" controls>
     Your browser does not support the video tag.
   </video>
 </div>
