@@ -44,6 +44,27 @@ This project utilizes a unique **two-stage navigation pipeline** that bridges th
 
 ---
 
+## 📸 Visual Journey: From Static Grids to Dynamic Paths
+
+The following sequence demonstrates how the system adapts to user interaction in real-time.
+
+| Step 1: Default State | Step 2: Obstacle Injection | Step 3: Goal Adaptation |
+|:---:|:---:|:---:|
+| ![Before](./Screenshots/Before.png) | ![After 1](./Screenshots/After-1.png) | ![After 2](./Screenshots/After-2.png) |
+| *Initial setup with no obstacles.* | *Adding obstacles dynamically.* | *Repositioning the goal.* |
+
+### 🎥 The Full Interactive Experience
+> [!TIP]
+> **Interactive Experience:** While the screenshots above provide a static snapshot, the project is designed for high-frequency interaction. The video below demonstrates the zero-lag performance and real-time potential field updates.
+
+<div align="center">
+  <video src="./Screenshots/Screen%20Recording%202026-05-01%20at%206.13.18%E2%80%AFPM.mov" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 | Tier | Technologies |
 |---|---|
